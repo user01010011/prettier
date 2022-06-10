@@ -3783,10 +3783,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flow-parser@npm:0.178.1":
-  version: 0.178.1
-  resolution: "flow-parser@npm:0.178.1"
-  checksum: bcaa6da1553ea4f3f144adcc8191fd0aa91ff42a062960b43bef3347fda36da4afaf098de1d87cb38aa81b7a8c08f86266b55830b693210f9639fb3712700d04
+"flow-parser@npm:0.180.0":
+  version: 0.180.0
+  resolution: "flow-parser@npm:0.180.0"
+  checksum: bc26d9d29e49f3401602bc76ece47ff839e339b555560d53e2d3553c84222702d587e0d6342effdb1cbd334bf06ab33b3a1c370e701229b800f8b9f9bf73e233
   languageName: node
   linkType: hard
 
@@ -6708,7 +6708,7 @@ __metadata:
     fast-glob: 3.2.11
     fast-json-stable-stringify: 2.1.0
     find-parent-dir: 0.3.1
-    flow-parser: 0.178.1
+    flow-parser: 0.180.0
     get-stdin: 8.0.0
     graphql: 16.5.0
     html-element-attributes: 3.1.0
